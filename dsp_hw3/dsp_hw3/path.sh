@@ -1,0 +1,1 @@
+PATH=$PATH:"/Users/Plabo/OneDrive/Course/DigitalSpeech/DSP_Hw/dsp_hw3/srilm-1.5.10/bin/macosx"
